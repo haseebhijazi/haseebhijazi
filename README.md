@@ -3,7 +3,7 @@ I'm Haseeb, a Computer Science Undergrad from Kashmir
 
 Joined Github **4** years ago.
 
-Since then, I pushed **764** commits, opened **2** issues, submitted **261** pull requests, received **0** stars across **23** personal projects and contributed to **2** public repositories.
+Since then, I pushed **797** commits, opened **2** issues, submitted **265** pull requests, received **0** stars across **23** personal projects and contributed to **2** public repositories.
 
 Most used languages across my projects:
 

@@ -1,7 +1,7 @@
 Salam <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>,
 I'm Haseeb, a Computer Science Undergrad from Downtown, Kashmir. Currently, working as an SDE @ a YC startup in Bengaluru, India.
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
 Since then, I pushed **1357** commits, opened **3** issues, submitted **548** pull requests, received **1** stars across **23** personal projects and contributed to **6** public repositories.
 
